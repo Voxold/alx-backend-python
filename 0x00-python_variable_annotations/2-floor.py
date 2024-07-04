@@ -4,5 +4,5 @@
 import math
 
 
-def floor(n:float):
+def floor(n: float):
     return math.floor(n)
